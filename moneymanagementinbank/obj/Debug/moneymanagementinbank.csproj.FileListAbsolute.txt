@@ -1,0 +1,57 @@
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\bin\Debug\moneymanagementinbank.exe
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\bin\Debug\moneymanagementinbank.pdb
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Mainwindow.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.exe
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.pdb
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\bin\Debug\moneymanagementinbank.exe.config
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Deleteaccount.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Ballance.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Deposit.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Transfer.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Withdraw.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.View.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.viewac.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.updatea.resources
+C:\Users\Dell\Documents\Visual Studio 2008\Projects\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.statement.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\bin\Debug\moneymanagementinbank.exe.config
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.exe
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.pdb
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\bin\Debug\moneymanagementinbank.exe
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\bin\Debug\moneymanagementinbank.pdb
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Ballance.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.View.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Deleteaccount.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Deposit.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Form1.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Mainwindow.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Properties.Resources.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.statement.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Transfer.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.updatea.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.viewac.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Withdraw.resources
+C:\Users\dell\Desktop\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.csproj.GenerateResource.Cache
+D:\moneymanagementinbank\moneymanagementinbank\bin\Debug\moneymanagementinbank.exe.config
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.exe
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.pdb
+D:\moneymanagementinbank\moneymanagementinbank\bin\Debug\moneymanagementinbank.exe
+D:\moneymanagementinbank\moneymanagementinbank\bin\Debug\moneymanagementinbank.pdb
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\ResolveAssemblyReference.cache
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Ballance.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.View.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Deleteaccount.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Deposit.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Form1.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Mainwindow.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Properties.Resources.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.statement.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Transfer.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.updatea.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.viewac.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.Withdraw.resources
+D:\moneymanagementinbank\moneymanagementinbank\obj\Debug\moneymanagementinbank.csproj.GenerateResource.Cache
